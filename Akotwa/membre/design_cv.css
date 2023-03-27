@@ -1,0 +1,12 @@
+body{
+    background-color:green;
+    color: white;
+}
+
+ol{
+    line-height: 30px;
+}
+
+ul{
+    line-height: 25px;
+}

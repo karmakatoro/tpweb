@@ -1,0 +1,14 @@
+body{
+    background-image: url('photo/PXL_20230201_124615409.PORTRAIT~2.jpg');
+    background-size: cover;
+    color: rgb(59, 45, 45);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ol{
+    line-height: 30px;
+}
+
+ul{
+    line-height: 25px;
+}
